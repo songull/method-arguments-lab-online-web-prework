@@ -1,2 +1,2 @@
-def introduction(yup, 10)
+def introduction(name)
 end
